@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.tab-le{
+  width: 50%;
+  justify-content: center;
+  margin-left: 25%;
+  margin-top: 5%;
+}
